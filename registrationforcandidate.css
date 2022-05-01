@@ -1,0 +1,117 @@
+h1{
+
+
+    font-size: 80px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+    }
+    
+    
+    
+    body{ text-align: center; 
+      background-color: #af6b6a;
+       font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
+    
+    
+    
+    .form{
+    
+      border: solid red;
+      padding: 10px; 
+      border-radius: 5px; 
+      
+    
+    
+    }
+    #na{
+    
+    
+      border: solid black;
+    padding: 10px; 
+    border-radius: 5px; 
+    
+    }
+    #nu{
+    
+    
+    
+      border: solid black;
+    padding: 10px; 
+    border-radius: 5px; 
+    
+    }
+    #pa{
+    
+    
+      border: solid black;
+    padding: 10px; 
+    border-radius: 5px; 
+    
+    
+    }
+    #pu{
+    
+      border: solid black;
+      padding: 10px; 
+      border-radius: 5px; 
+      
+    
+    }
+    #pla{
+    
+      border: solid black;
+      padding: 10px; 
+      border-radius: 5px; 
+      
+    
+    
+    }
+    .blue{
+    
+      border: solid black;
+      padding: 10px;
+      border-radius: 5px;
+      width:10%; 
+      
+    
+    }
+    .redd{
+    color: red;
+    text-decoration: none;
+    font-size: large;
+    }
+    #rol{
+    
+    width: 100px;
+    color: white;
+    background-color: black;
+    border:lightblue;
+    }
+    .yellow{
+    
+    text-decoration: none;
+    color: crimson;
+    font-size: 20px;
+    }
+    #labels{
+    
+    
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 20px;
+      width: 20px;
+      background-color: #eee;
+      border-radius: 25%;
+    
+    
+    
+    
+    
+    }
+    #nepali{
+    text-decoration: none;
+    float: left;
+    color: crimson;
+    }
+    
